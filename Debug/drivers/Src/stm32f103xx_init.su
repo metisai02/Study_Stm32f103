@@ -1,0 +1,2 @@
+stm32f103xx_init.c:11:6:SPIx_Init	56	static
+stm32f103xx_init.c:76:9:SPI_Transfer	24	static

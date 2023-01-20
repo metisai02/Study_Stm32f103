@@ -1,0 +1,13 @@
+stm32f103xx_rc522.c:17:9:RC522_SPI_Transfer	16	static
+stm32f103xx_rc522.c:28:6:Write_MFRC522	16	static
+stm32f103xx_rc522.c:48:7:Read_MFRC522	24	static
+stm32f103xx_rc522.c:73:6:SetBitMask	24	static
+stm32f103xx_rc522.c:87:6:ClearBitMask	24	static
+stm32f103xx_rc522.c:101:6:AntennaOn	8	static
+stm32f103xx_rc522.c:120:6:AntennaOff	8	static
+stm32f103xx_rc522.c:132:6:MFRC522_Reset	8	static
+stm32f103xx_rc522.c:143:6:MFRC522_SPI_Init	8	static
+stm32f103xx_rc522.c:155:6:MFRC522_Init	24	static
+stm32f103xx_rc522.c:212:7:MFRC522_ToCard	48	static
+stm32f103xx_rc522.c:335:7:MFRC522_Request	32	static
+stm32f103xx_rc522.c:360:7:MFRC522_Anticoll	32	static

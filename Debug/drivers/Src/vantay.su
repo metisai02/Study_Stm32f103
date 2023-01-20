@@ -1,0 +1,16 @@
+vantay.c:33:6:SendFPHeader	8	static
+vantay.c:38:6:SendFPGetImage	8	static
+vantay.c:43:6:SendFPCreateCharFile1	8	static
+vantay.c:48:6:SendFPCreateCharFile2	8	static
+vantay.c:53:6:SendFPCreateTemplate	8	static
+vantay.c:58:6:SendFPDeleteAllFinger	8	static
+vantay.c:63:6:SendFPDSearchFinger	8	static
+vantay.c:68:6:SendFGetNumberOfFinger	8	static
+vantay.c:72:6:SendStoreFinger	24	static
+vantay.c:95:6:SendDeleteFinger	24	static
+vantay.c:120:9:CheckFPRespsone	48	static
+vantay.c:161:9:GetNumberOfFinger	64	static
+vantay.c:171:9:RegistryNewFinger	64	static
+vantay.c:235:9:CheckFinger	64	static
+vantay.c:264:9:deleteallfinger	64	static
+vantay.c:275:9:Delete_ID	64	static

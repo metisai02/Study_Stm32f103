@@ -1,0 +1,5 @@
+stm32f103xx_crc_driver.c:11:10:CRC_CalcCRC	16	static
+stm32f103xx_crc_driver.c:18:10:CRC_CalcBlockCRC	24	static
+stm32f103xx_crc_driver.c:30:10:CRC_GetCRC	4	static
+stm32f103xx_crc_driver.c:36:6:CRC_SetIDRegister	16	static
+stm32f103xx_crc_driver.c:42:9:CRC_GetIDRegister	4	static

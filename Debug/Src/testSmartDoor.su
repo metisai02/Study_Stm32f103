@@ -1,0 +1,7 @@
+testSmartDoor.c:62:5:main	80	static
+testSmartDoor.c:244:6:I2C1_GPIOInits	24	static
+testSmartDoor.c:259:6:I2C1_Inits	8	static
+testSmartDoor.c:267:6:USART_GPIOInits	24	static
+testSmartDoor.c:292:6:USART_Inits	8	static
+testSmartDoor.c:320:6:USART2_IRQHandler	8	static
+testSmartDoor.c:324:6:USART_ApplicationEventCallback	96	static

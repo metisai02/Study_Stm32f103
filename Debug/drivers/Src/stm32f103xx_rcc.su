@@ -1,0 +1,6 @@
+stm32f103xx_rcc.c:15:10:RCC_PillSystem	24	static
+stm32f103xx_rcc.c:51:10:RCC_GetPCLK1Value	24	static
+stm32f103xx_rcc.c:98:10:RCC_GetPCLK2Value	24	static
+stm32f103xx_rcc.c:148:6:SysTickInit	4	static
+stm32f103xx_rcc.c:156:10:GetTick	4	static
+stm32f103xx_rcc.c:160:6:SysTick_Handler	4	static

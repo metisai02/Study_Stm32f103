@@ -1,0 +1,16 @@
+stm32f103xx_usart_driver.c:17:6:USART_PeriClockControl	16	static
+stm32f103xx_usart_driver.c:30:6:USART_BaudRateConfigure	40	static
+stm32f103xx_usart_driver.c:64:6:USART_PeriControl	16	static
+stm32f103xx_usart_driver.c:77:9:USART_Init	24	static
+stm32f103xx_usart_driver.c:145:9:USART_GetFlagStatus	16	static
+stm32f103xx_usart_driver.c:161:6:USART_ClearFlagStatus	16	static
+stm32f103xx_usart_driver.c:174:9:USART_SendData	32	static
+stm32f103xx_usart_driver.c:226:9:USART_ReceiveData	32	static
+stm32f103xx_usart_driver.c:273:9:USART_SendDataIT	32	static
+stm32f103xx_usart_driver.c:291:9:USART_ReceiveDataIT	32	static
+stm32f103xx_usart_driver.c:309:6:USART_IRQConfig	24	static
+stm32f103xx_usart_driver.c:317:6:USART_IRQHandling	32	static
+stm32f103xx_usart_driver.c:603:28:USART_ApplicationEventCallback	16	static
+stm32f103xx_usart_driver.c:607:19:HAL_UART_Transmit	48	static
+stm32f103xx_usart_driver.c:682:26:UART_WaitOnFlagUntilTimeout	24	static
+stm32f103xx_usart_driver.c:708:19:HAL_UART_Receive	48	static

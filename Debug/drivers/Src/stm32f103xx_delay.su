@@ -1,0 +1,2 @@
+stm32f103xx_delay.c:10:6:DelayInit	16	static
+stm32f103xx_delay.c:32:6:Delayms	32	static
